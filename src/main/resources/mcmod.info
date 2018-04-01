@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "egg",
+    "name": "egg",
+    "description": "Draws a red line between you and eggs within a 1024 radius around you",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://www.lawlsec.org",
+    "updateUrl": "",
+    "authorList": [
+      "Lawlsec"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
